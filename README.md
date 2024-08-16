@@ -10,6 +10,9 @@ Implemented algorithms:
 5) Quick sort
 6) Heap sort
 
+  ![image](https://github.com/user-attachments/assets/f3803b28-2511-444e-a4a9-39a32ae78915)
+ 
+
 Features:
 1) Colored representation of step being executed.
   1.1) Blue:default
@@ -22,4 +25,4 @@ Features:
   2.3) Generation of new data (Randomly generate new data).
 4) Time and Space complexity of algorithm being visualized.
 
-Take a look at live version: https://kethantummala.github.io/Sorting_Visualizer/
+Take a look at live version: https://sorting-visualizer-eosin-tau.vercel.app/
